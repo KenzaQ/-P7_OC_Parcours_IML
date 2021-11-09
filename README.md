@@ -6,7 +6,7 @@ Votre supérieur vous demande de trouver une méthode plus récente pour amélio
 
 # Problématique choisie
 
-Etude de l’utilisation du Word Embeddings et du Deep Learning lors d’un problème de classification de données textuelles
+Etude de l’utilisation du Word Embeddings et du Deep Learning pour un problème de classification de données textuelles
 
 ## Compétences développées
 
