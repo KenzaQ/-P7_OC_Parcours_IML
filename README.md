@@ -1,4 +1,4 @@
-# Projet 6 du Parcours Ingénieur Machine Learning OpenClassrooms - Développez une preuve de concept
+# Projet 7 du Parcours Ingénieur Machine Learning OpenClassrooms - Développez une preuve de concept
 
 Le domaine du machine learning, et plus généralement de la data science, évolue très rapidement. Il est donc important que vous développiez l’habitude de vous tenir au courant des avancées dans le domaine en effectuant une veille thématique. Vous devez aussi être capable de monter rapidement en compétence sur une nouvelle thématique, en sachant effectuer une recherche et mettre en pratique un nouvel algorithme de façon autonome (POC).
 
